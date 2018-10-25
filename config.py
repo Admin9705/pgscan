@@ -59,7 +59,7 @@ class Config(object):
         },
         'DOCKER_NAME': 'plex',
         'RUN_COMMAND_BEFORE_SCAN': '',
-        'USE_DOCKER': False,
+        'USE_DOCKER': FTrue,
         'USE_SUDO': True,
         'GDRIVE': {
             'CLIENT_ID': '',
